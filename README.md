@@ -4,8 +4,9 @@
 分析和傅首尔脸有几分相似
 
 # 运行方式：
-pip install deepface
+pip install deepface \n
 python main.py 即可运行
+
 # 备注:
 逻辑十分简单,主要调用的别人的库,简单测试了一下效果还是比较OK的。
 另：任何长相和性格都不应该被定义,代码仅供娱乐和交流
