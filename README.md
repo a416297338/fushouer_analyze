@@ -4,7 +4,8 @@
 分析和傅首尔脸有几分相似
 
 # 运行方式：
-pip install deepface \n
+pip install deepface
+
 python main.py 即可运行
 
 # 备注:
