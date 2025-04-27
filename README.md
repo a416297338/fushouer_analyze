@@ -1,6 +1,6 @@
 # fushouer_analyze
 # 功能：
-放一张人脸图片，命名为 test.jpg.
+放一张人脸图片，命名为 test.jpg
 分析和傅首尔脸有几分相似
 
 # 运行方式：
